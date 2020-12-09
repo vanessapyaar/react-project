@@ -1,13 +1,13 @@
+
 {
   "name": "resume",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "gh-pages": "^3.1.0",
-    "homepage": "https://vanessapyaar.github.io/react-project/",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "homepage" : "https://vanessapyaar.github.io/react-project/"
   },
   "scripts": {
     "start": "react-scripts start",
