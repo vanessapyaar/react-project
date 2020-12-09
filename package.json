@@ -1,4 +1,3 @@
-
 {
   "name": "resume",
   "version": "0.1.0",
@@ -6,8 +5,7 @@
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.1.1",
-    "homepage" : "https://vanessapyaar.github.io/react-project/"
+    "react-scripts": "2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
